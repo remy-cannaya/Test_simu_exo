@@ -7,7 +7,7 @@
 #include "CUnit.h"
 #include "Basic.h"
 #include "Automated.h"
-#include "CUnit/Console.h"
+#include "Console.h"
 
 
 
